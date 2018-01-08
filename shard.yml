@@ -1,0 +1,13 @@
+name: secuenciaCrystal
+version: 0.1.0
+
+authors:
+  - peg <emanuelpeg@yahoo.com.ar>
+
+targets:
+  secuenciaCrystal:
+    main: src/secuenciaCrystal.cr
+
+crystal: 0.24.1
+
+license: MIT
